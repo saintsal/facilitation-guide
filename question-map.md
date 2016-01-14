@@ -7,7 +7,9 @@ Question Mapping is a form of [Post Up](http://gamestorming.com/core-games/post-
 **when**: at the beginning of a workshop or programme.
 
 ![](http://farm3.static.flickr.com/2022/2192733751_8d7d8a2501.jpg)
+
 How to ( Step by Step )
+
 1. Make the participants aware that the purpose is to explain learning goals to eachother. 
 1. Ask people to think of what they want to learn today/this week/over the programme.
 1. Ask them to think about their current challenges and what they can apply, to make their requests actionable.
