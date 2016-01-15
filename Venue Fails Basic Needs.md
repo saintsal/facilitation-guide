@@ -16,4 +16,4 @@ Physical comfort goes a long way.  It's really a pre-requisite for a functional 
 A basic, professional level of prep can avoid a lot of problems:
 
 * Always be prepared by having 'pens and sticky notes'. Also just having some relevant worksheets with you is a good back-up  - helps in making anything into a Venue ( Bar, Restaurant etc. )
-* Call someone out of the organising team to fix your venue problem; Buy lunch or drinks at any given place
+* Call someone out of the organising team to fix your venue problem; Buy lunch or drinks at any given place. Deal with delivery first, and figure out the economics of what you're doing at a later point (unless you find yourself buying a Bentley for some weird reason)
