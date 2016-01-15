@@ -30,6 +30,4 @@ The default way is a big finger-loop hand gesture.  Make sure you're making eye 
 You might want to call for a huddle verbally.  It's okay for the participants to know a huddle is going to happen. "Let's huddle for 2 minutes."
 
 
-Open Huddles: Facilitator calls for a huddle in-front of the audience and to discuss/mention something briefly
 
-Outside Huddles / Break: Longer huddle whilst participants are at a break / or engaged with an exercise - ideal to communicate a course change and a good check - in for teacher ( feedback and information on audience )
