@@ -1,14 +1,18 @@
 
 #Facilitating Pitches
 
-** How can one accommodate pitching in a workshop of all participants without making it board**
-** How can you maintain energy if participants listen to more than +55 pitches  **
+Getting participants to stand up and pitch, is always a risk to the flow of your workshop. Common ways of that happening is stories that beat about the bush, or never ending stories brought in great detail. Pitching doesn't come natural to most people. Thery're there to learn, right?
 
+Ensuring that pitching moments remain engaging is hard, paticularly in larger groups. 
+
+The following techniques will help you to deal with driving engagement:
+* Time box the pitch to 90 seconds
+* 
 
 Questions you might ask yourself: 
 
 * Are slides worth using -  bare in mind the technical hassle of collecting presentations and / or setting every participants laptop up - ( Yes / No ) ?
-* Time - box;  how long does every participant get 
+
 * How long is the attention span - when is it necessary to set breaks ?
 * Is it worth splitting the group to cut out more focus ?
 
