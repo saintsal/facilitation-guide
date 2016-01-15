@@ -3,7 +3,7 @@
 
 ** Your running on a tight schedule for a client, come into a fixed setting and run into exceptional tech-problems **
 
-* take charge - communicate to the group 'get coffee', 'read e-mails', 'give me 20 min' 
+* take charge and buy yourself time - communicate to the group 'get coffee', 'read e-mails', 'give me 20 min' 
 * Run your deck without slides -  make a rough agenda with key goals / objectives you want to hammer home and use that as baseline orientation 
 
 A basic, professional level of prep can avoid a lot of problems:
