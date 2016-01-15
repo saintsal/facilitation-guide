@@ -1,17 +1,12 @@
 # Scenarios you can design against
+There are two ways to deal with scenario's during a workshop. 
 
+One way is to anticipate for scenario's happening, and design against them by applying facilitation techniques in your preparation. Examples of this are using a Question Map to get a better sense of knowledge differences within the group, or jointly defining the rules of behavior for the workshop with participants.
 
-*Technical Device Distraction - Several members of the group are constantly on Laptop throughout the workshop session / They are distracting their peers and are not 100% engaged with the group* 
+The second way is to react on the spot by applying a certain technique. 
 
-*Different levels of knowledge within the group ( example BMC )*
+In this facilitation manual you will find that all the techniques will be labeled as either, so that you know when you can start applying them: either in prepration or during the workshop.
 
-*Technical Device Distraction - Several members of the group are constantly on Laptop throughout the workshop session / They are distracting their peers and are not 100% engaged with the group* 
-
-
-**Design Against - these possible situations**
-
-*Set up a rules prior to workshop 
-* Proper calibration - determine which levels are participants on?
 
 
 
