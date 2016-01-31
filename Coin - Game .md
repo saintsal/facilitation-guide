@@ -59,10 +59,10 @@ Player II. flips the cards one by one, only using left hand. He then puts the ba
 
 
 ## Round 1 discussion
-=> compare accuracy:
-=> Let's talk about what happened ?
-=> How did you get to estimation ?
-=> Many people working in comparison to little people working
+* compare accuracy:
+* Let's talk about what happened ?
+* How did you get to estimation ?
+* Many people working in comparison to little people working
 
 ### Typical lessons learned in round 1
 * Errors are expensive since the whole batch has to be sent back. If one thing in the assembly - line process goes wrong it ripples.
