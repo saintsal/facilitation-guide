@@ -28,18 +28,18 @@ Take the coin/card - decks and split these into batches of 100 coins/cards depen
 
 ## Running the game
 
-Explain the background 
-Explain the rules. 
-Determine what is 'Ready-Area'  and what is 'Work-Area'.
-Demonstrate ( interplay between 'ready - area'  and 'work - area' )
-Explain the first round will be 100 cards in batches of 20.
-Give each team a few minutes to discuss and predict how long it will take for (a) the first batch to be complete (b) for all batches to be complete
-Run the simulation.  Record the actual results for each team.
-Discuss the accurate and inaccurate predictions as a group.  
-Change the batch size to 5.
-Ask for predictions again.
-Run the simulation and record the actual results.
-Discuss.
+1. Explain the background 
+1. Explain the rules. 
+1. Visually diagram what is the 'Ready-Area'  and what is 'Work-Area'.
+1. Demonstrate ( interplay between 'ready - area'  and 'work - area' )
+1. Explain the first round will be 100 cards in batches of 20.
+1. Give each team a few minutes to discuss and predict how long it will take for (a) the first batch to be complete (b) for all batches to be complete
+1. Run the simulation.  Record the actual results for each team.
+1. Discuss the accurate and inaccurate predictions as a group.  
+1. Change the batch size to 5.
+1. Ask for predictions again.
+1. Run the simulation and record the actual results.
+1. Discuss.
 
 
 ## Rules
