@@ -58,10 +58,11 @@ Player II. flips the cards one by one, only using left hand. He then puts the ba
 
 
 
-## Round 1 discussion
-* compare accuracy:
+## Discussions
+* compare accuracy.
 * Let's talk about what happened ?
 * How did you get to estimation ?
+* What did you focus on, what did you assume?
 * Many people working in comparison to little people working
 
 ### Typical lessons learned in round 1
